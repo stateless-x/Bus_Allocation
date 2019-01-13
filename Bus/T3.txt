@@ -1,0 +1,10 @@
+1, Teemo, 10, A
+2, Kayn, 40 , C
+3, Darius, 30, C
+4, Khazix, 20 , A
+5, Lux, 35 ,A
+6, Yi, 15, C
+7, Katarina, 10, C
+8, Chogath, 20, C
+9, Janna, 40, A
+10, Mundo, 15, A

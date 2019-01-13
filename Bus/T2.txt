@@ -1,0 +1,10 @@
+1, Alistar , 10, C
+2, Yasuo , 10, A
+3, Nunu , 25, C
+4, Jinx , 30, A
+5, Kennen , 15, C
+6, Sona , 15, C
+7, Orianna , 20 , A
+8, Evelyn , 40, C
+9, Aatrox , 50, A
+10, Ezreal, 35, C
